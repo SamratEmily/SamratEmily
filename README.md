@@ -60,18 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SamratEmily&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Samrat Hossen's GitHub stats"
-    height="165"
-  />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **nayakemily50@gmail.com**
